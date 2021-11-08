@@ -14,6 +14,7 @@ font-size: 15px;
 #reff{
     background-image: url('assets/ernest-ojeh-aEytUoE1Tkc-unsplash.jpg');
     background-size:cover;
+    backdrop-filter: blur(5px);
     opacity: 1;
     /* position: fixed; */
 }
